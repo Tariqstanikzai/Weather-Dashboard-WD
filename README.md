@@ -29,10 +29,11 @@ Search history will be saved in local storage.
 ## Links:
 
 * The URL of the deployed application.
+* https://tariqstanikzai.github.io/Weather-Dashboard-WD/
 
 * The URL of the GitHub repository.
  https://github.com/Tariqstanikzai/Weather-Dashboard-WD 
  
 
 ## Contact
- * @tariq_stanikzai
+ * @Tariqstanikzai
